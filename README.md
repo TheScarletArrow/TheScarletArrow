@@ -1,6 +1,6 @@
 # About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheScarletArrow&exclude_repo=python-mai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheScarletArrow&exclude_repo=python-mai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 My languages and technologies I use:
 * Java
