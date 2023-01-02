@@ -11,6 +11,8 @@ My languages and technologies I use:
 * Redis
 * MongoDB
 * RabbitMQ
+* Docker
+* Docker-compose
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheScarletArrow&show_icons=true&theme=radical)
