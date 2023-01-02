@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheScarletArrow&exclude_repo=python-mai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-My languages and technologies I use:
+My languages and technologies I use in my projects projects and at work:
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka" /></code>
