@@ -1,6 +1,6 @@
 # About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheScarletArrow&exclude_repo=python-mai,XORencruption,C-based-Archiver,bmp_to_gray,bash_synchro,hello-world&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheScarletArrow&exclude_repo=python-mai,XORencruption,C-based-Archiver,bmp_to_gray,bash_synchro,hello-world&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 My languages and technologies I use in my projects projects and at work:
 <div align="center">
@@ -26,4 +26,4 @@ My languages and technologies I use in my projects projects and at work:
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheScarletArrow&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=TheScarletArrow&show_icons=true&theme=radical)
